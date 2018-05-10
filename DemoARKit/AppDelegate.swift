@@ -3,7 +3,7 @@
 //  DemoARKit
 //
 //  Created by Trabelsi Achraf on 5/10/18.
-//  Copyright © 2018 MobilePowered. All rights reserved.
+//  Copyright © 2018 TADEV. All rights reserved.
 //
 
 import UIKit
