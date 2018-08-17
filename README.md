@@ -2,8 +2,7 @@
 Building a simple ARKit demo application with swift 4 and xcode 9.3+. 
 
 ![Build Status](https://travis-ci.org/OussamaRomdhane/easy-converter.svg?branch=master)
-![license:](https://img.shields.io/github/license/mashape/apistatus.svg)
-![platform:](https://img.shields.io/readthedocs/pip/stable.svg)
+![](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
 
 ### Requirements
 - iOS 11.0+ 
