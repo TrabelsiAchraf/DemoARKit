@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  DemoARKit
 //
-//  Created by Trabelsi Achraf on 5/10/18.
+//  Created by Sankou7 on 5/10/18.
 //  Copyright © 2018 TADEV. All rights reserved.
 //
 
